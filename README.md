@@ -47,10 +47,11 @@ Here are some ideas to get you started:
 <hr>
 <div>
   <p align="center"><b> :v:	 Contacts  :mega:  :coffee:		</b></p>
- <p align="center">
-      <a href="https://abanoub.tk/">
+     <p align="center">	    <a href="https://abanoub.tk/">
         https://abanoub.tk/
       </a>
+ <p align="center">	</p>
+ <p align="center">
       <a href="mailto:Abanoub5016@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
       </a>
