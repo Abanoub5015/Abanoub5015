@@ -48,13 +48,16 @@ Here are some ideas to get you started:
 <div>
   <p align="center"><b> :v:	 Contacts  :mega:  :coffee:		</b></p>
  <p align="center">
+      <a href="https://abanoub.tk/">
+        https://abanoub.tk/
+      </a>
       <a href="mailto:Abanoub5016@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
       </a>
-      <a href="https://github.com/JeanFirmino" target="_blank">
+      <a href="https://api.whatsapp.com/send/?phone=%2B201555737801&text&app_absent=0" target="_blank">
         <img src="https://i.ibb.co/2jKMZtx/Whatsapp-Button-1.jpg">
       </a>
-      <a href="https://www.linkedin.com/in/jeanfirmino/" target="_blank">
+      <a href="https://www.linkedin.com/in/abanoub-magdy-98a17412a/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
 </div>
