@@ -2,6 +2,7 @@
 ### Hi there 👋
 
 **Abanoub5015/Abanoub5015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![linkedin](https://user-images.githubusercontent.com/82307701/179575113-ef0b4a9e-451a-48dd-8057-e1fbab9aec2a.png)
 
 Here are some ideas to get you started:
 
@@ -52,14 +53,11 @@ Here are some ideas to get you started:
       </a>
  <p align="center">	</p>
  <p align="center">
-      <a href="mailto:Abanoub5016@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-      </a>
       <a href="https://api.whatsapp.com/send/?phone=%2B201555737801&text&app_absent=0" target="_blank">
-        <img src="https://i.ibb.co/2jKMZtx/Whatsapp-Button-1.jpg">
+        <img src="https://i.ibb.co/zn83dbw/whatsapp.png">
       </a>
       <a href="https://www.linkedin.com/in/abanoub-magdy-98a17412a/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        <img src="https://i.ibb.co/wKVWFqY/linkedin.png">
       </a>
 </div>
 
