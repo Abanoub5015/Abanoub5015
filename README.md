@@ -49,7 +49,6 @@ Here are some ideas to get you started:
      <p align="center">	    <a href="https://abanoub.tk/">
         https://abanoub.tk/
       </a>
- <p align="center">	</p>
  <p align="center">
       <a href="https://api.whatsapp.com/send/?phone=%2B201555737801&text&app_absent=0" target="_blank">
         <img src="https://i.ibb.co/zn83dbw/whatsapp.png">
