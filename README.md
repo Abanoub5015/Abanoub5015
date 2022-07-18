@@ -1,6 +1,5 @@
 <!--
 ### Hi there 👋
-
 **Abanoub5015/Abanoub5015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![linkedin](https://user-images.githubusercontent.com/82307701/179575113-ef0b4a9e-451a-48dd-8057-e1fbab9aec2a.png)
 
@@ -15,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 
 <h1 align="center">Hi 👋, I'm Abanoub Magdy, 25y</h1>
@@ -61,5 +59,4 @@ Here are some ideas to get you started:
       </a>
 </div>
 
-
-
+![Snake animation](https://github.com/brunodiego97/brunodiego97/blob/output/github-contribution-grid-snake.svg)
