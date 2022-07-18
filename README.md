@@ -75,12 +75,4 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UCZVzXz_Bkw5roCPHITfxyWA"><img src="https://user-images.githubusercontent.com/32282846/153717612-ff857054-2fb7-41ba-84fa-a45261ae89b9.png" height="30" width="30" /></a>
 
 
-</p>
-<br> <br>
-<p align='center'>
-          <img src='https://user-images.githubusercontent.com/32282846/148982983-f1056dd1-8471-4b8e-baaa-dac6fc8d5f08.gif' />
-          <br>
-          <a href="https://www.buymeacoffee.com/drelocatelli" title="buy me a coffee"><img src="https://user-images.githubusercontent.com/32282846/126049168-d98c147c-6893-4272-9383-e166d80a8bfa.png"></a>
-</p>
-
 
