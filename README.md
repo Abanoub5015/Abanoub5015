@@ -49,7 +49,7 @@ Here are some ideas to get you started:
       <a href="https://api.whatsapp.com/send/?phone=%2B201555737801&text&app_absent=0" target="_blank">
         <img src="https://i.ibb.co/G5q5NLm/image.png"> 
       </a>
-      <a href="https://www.linkedin.com/in/abanoub-magdy-98a17412a/" target="_blank">
+      <a href="https://www.linkedin.com/in/abanoub-tk/" target="_blank">
         <img src="https://i.ibb.co/wKVWFqY/linkedin.png">
       </a>
 </div>
