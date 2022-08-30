@@ -24,15 +24,20 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools: </h3>
 
 <p align="left">
+<a href="https://angular.io/" rel="nofollow"> <img src="https://angular.io/assets/images/logos/angular/shield-large.svg" alt="angular" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://www.typescriptlang.org/" rel="nofollow">
+<img src="https://user-images.githubusercontent.com/32282846/148977795-7849d063-c0ed-4196-aaa0-77d12f54319f.png" alt="typescript" width="40" height="40" style="max-width: 100%;"></a>  
+<a href="https://reactjs.org/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/144276751-bffd469a-081b-46a5-9730-f25d87560649.png" alt="reactjs" width="60" height="40" style="max-width: 100%;"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.typescriptlang.org/" rel="nofollow">
-<img src="https://user-images.githubusercontent.com/32282846/148977795-7849d063-c0ed-4196-aaa0-77d12f54319f.png" alt="typescript" width="40" height="40" style="max-width: 100%;"></a>         
-<a href="https://reactjs.org/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/144276751-bffd469a-081b-46a5-9730-f25d87560649.png" alt="reactjs" width="60" height="40" style="max-width: 100%;"></a>
-<a href="https://dart.dev" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148978779-aef5d610-84a8-47d2-84a1-346d740ec8ae.png" alt="dart" width="40" height="40" style="max-width: 100%;">
 <a href="https://flutter.dev" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148978946-fc3fc91b-a6be-4939-9660-c93e9c10f766.png" alt="flutter" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://dart.dev" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148978779-aef5d610-84a8-47d2-84a1-346d740ec8ae.png" alt="dart" width="40" height="40" style="max-width: 100%;">
 <a href="https://android.com/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148980830-df0f3af2-50b8-4bb2-9301-668e8f459abb.png" alt="android" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://developer.android.com/studio" rel="nofollow"> <img src="https://i.ibb.co/zRqPYG2/image.png" alt="android" width="60" height="40" style="max-width: 100%;"></a>
+<a href="https://www.atlassian.com/software/jira" rel="nofollow"> <img src="https://i.ibb.co/C2fL2nL/image.png" alt="android" width="80" height="40" style="max-width: 100%;"></a>
+<a href="https://www.atlassian.com/software/jira" rel="nofollow"> <img src="https://i.ibb.co/qgnFdFX/image.png" alt="android" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://kubernetes.io/" rel="nofollow"> <img src="https://i.ibb.co/86Grsty/image.png" alt="android" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.photoshop.com/en" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="max-width: 100%;"></a>
 
