@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 <a href="https://flutter.dev" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148978946-fc3fc91b-a6be-4939-9660-c93e9c10f766.png" alt="flutter" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://dart.dev" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148978779-aef5d610-84a8-47d2-84a1-346d740ec8ae.png" alt="dart" width="40" height="40" style="max-width: 100%;">
 <a href="https://android.com/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148980830-df0f3af2-50b8-4bb2-9301-668e8f459abb.png" alt="android" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://developer.android.com/studio" rel="nofollow"> <img src="https://i.ibb.co/zRqPYG2/image.png" alt="android" width="60" height="40" style="max-width: 100%;"></a>
-<a href="https://www.atlassian.com/software/jira" rel="nofollow"> <img src="https://i.ibb.co/C2fL2nL/image.png" alt="android" width="80" height="40" style="max-width: 100%;"></a>
-<a href="https://www.atlassian.com/software/jira" rel="nofollow"> <img src="https://i.ibb.co/qgnFdFX/image.png" alt="android" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://kubernetes.io/" rel="nofollow"> <img src="https://i.ibb.co/86Grsty/image.png" alt="android" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://developer.android.com/studio" rel="nofollow"> <img src="https://user-images.githubusercontent.com/82307701/192167303-f9f44b2b-725f-4ab2-a3d1-8f5db27d1d8c.png" alt="android" width="60" height="40" style="max-width: 100%;"></a>
+<a href="https://www.atlassian.com/software/jira" rel="nofollow"> <img src="https://user-images.githubusercontent.com/82307701/192167335-87a428a1-240e-4220-9fd3-932f832f4355.png" alt="android" width="80" height="40" style="max-width: 100%;"></a>
+<a href="https://www.atlassian.com/software/jira" rel="nofollow"> <img src="https://user-images.githubusercontent.com/82307701/192167353-5b56bdb2-d8d0-440c-b767-039cb1664815.png" alt="android" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://kubernetes.io/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/82307701/192167365-af83fead-58a2-434e-b753-77db54a94e11.png" alt="android" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.photoshop.com/en" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="max-width: 100%;"></a>
 
@@ -52,10 +52,10 @@ Here are some ideas to get you started:
       </a>
  <p align="center">
       <a href="https://api.whatsapp.com/send/?phone=%2B201555737801&text&app_absent=0" target="_blank">
-        <img src="https://i.ibb.co/G5q5NLm/image.png"> 
+        <img src="https://user-images.githubusercontent.com/82307701/192167382-2e9e0c73-e1a8-4035-9174-7553660f6ed5.png"> 
       </a>
       <a href="https://www.linkedin.com/in/abanoub-tk/" target="_blank">
-        <img src="https://i.ibb.co/wKVWFqY/linkedin.png">
+        <img src="https://user-images.githubusercontent.com/82307701/192167396-a6e1d3c4-8634-4c66-9486-ec93632394e9.png">
       </a>
 </div>
 
