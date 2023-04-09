@@ -60,3 +60,4 @@ Here are some ideas to get you started:
 </div>
 
 ![Snake animation](https://github.com/brunodiego97/brunodiego97/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Abanoub5015/Abanoub5015/blob/output/github-contribution-grid-snake.gif)
